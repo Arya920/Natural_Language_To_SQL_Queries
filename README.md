@@ -1,13 +1,14 @@
 ---
-title: Streanlit GEMMA 2B
+title: Streanlit GEMMA 2B & Deepseek Coder 1.3B
 emoji: 📉
 colorFrom: gray
 colorTo: gray
 sdk: streamlit
 sdk_version: 1.31.1
 app_file: app.py
+run_code: streamlit run app.py
 pinned: false
-license: mit
+license: Apache 2.0
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
